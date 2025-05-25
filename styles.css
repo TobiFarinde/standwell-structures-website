@@ -146,7 +146,7 @@ h3 {
         height: 400px;
         align-items: center;
         justify-content: center;
-        margin-bottom: 25px;
+        margin-bottom: 0px;
         margin-left: 25px;
         margin-top: 25px;
     }
@@ -159,6 +159,12 @@ h3 {
     box-sizing: border-box;
     letter-spacing: 5px;
     text-align: center;
+     }
+
+     .foot-panel1 {
+        display: flex;
+        background-color: #1c242a;
+        margin-top: 0;
      }
 
     
