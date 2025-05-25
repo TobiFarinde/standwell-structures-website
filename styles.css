@@ -74,3 +74,20 @@ button a{
     color: #ffffff;
     font-weight: bolder;
 }
+
+h2{
+    color: #1e1e22;
+    font-family: "Poppins", Sans-serif;
+    font-size: 4em;
+    font-weight: 700;
+    letter-spacing: 10px;
+    padding-top: 35px;
+    padding-left: 35px;
+}
+
+.hero2-texts {
+    border: 0;
+    font-size: 100%;
+    font-style: inherit;
+    font-weight: inherit;
+}
