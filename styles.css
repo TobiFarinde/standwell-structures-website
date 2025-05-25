@@ -1,5 +1,6 @@
 *{
     text-decoration: none;
+    margin: 0;
 }
 .navbar{
     background-color: whitesmoke; font-family: calibri; padding-right: 15px; padding-left:15px ;
@@ -27,10 +28,8 @@ li a{
 .hero-section {
     background-image: url('right\ picture.jpeg');
     background-size: cover;
-    height: 800px;
-    justify-content: center;
-    align-items: center;
-    margin-top: ;
+    height: 100vh;
+    background-position: center;
 }
 
 .hero-texts {
@@ -38,6 +37,9 @@ li a{
     justify-content: center;
     color: aliceblue;
     font-family: arial;
-    margin-bottom: 50px;
+}
+
+h1 {
+    font-size: 80px;
 }
 
