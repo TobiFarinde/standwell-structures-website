@@ -111,6 +111,7 @@ h3 {
 .projects {
     display: flex;
     gap: 60px;
+    margin-left: 25px;
 }
 
 .pic1 {
@@ -120,8 +121,22 @@ h3 {
     box-shadow: none;
     border-radius: 0;
     margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .pic2 {
-    
-}
+    height: auto;
+    max-width: 100%;
+    box-shadow: none;
+    border-radius: 0;
+    margin-top: 35px;
+    }
+
+    .pic3 {
+        height: auto;
+        margin-top: 35px;
+        display: flex;
+        gap: 60px;
+        margin-bottom: 35px;
+        margin-left: 35px;
+    }
