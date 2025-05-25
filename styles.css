@@ -3,15 +3,22 @@
     margin: 0;
 }
 .navbar{
-    background-color: whitesmoke; font-family: calibri; padding-right: 15px; padding-left:15px ;
+    background-color: whitesmoke;
+     font-family: calibri; 
+     padding-right: 15px; 
+     padding-left:15px ;
+     height: 70px;
 }
 
 .navdiv {
-    display:flex; align-items: center; justify-content: space-between;
+    display:flex;
+     align-items: center; 
+     justify-content: space-between;
+     padding-top: 15px;
 }
 
 .logo a{
-    font-size: 35px; font-weight: 600; color:blue;
+    font-size: 35px; font-weight: 600; color:black;
 }
 
 li{
@@ -19,7 +26,7 @@ li{
 }
 
 li a{
-    color: blue;
+    color: black;
     font-size: 18px;
     font-weight: bold;
     margin-right: 25px;
@@ -37,11 +44,17 @@ li a{
     justify-content: center;
     color: aliceblue;
     font-family: arial;
-    padding-top: 25px;
+    padding-top: 50px;
     padding-left: 100px;
 }
 
 h1 {
-    font-size: 80px;
+    color: #ffffff;
+    font-size: 5em;
+    font-family: "Poppins", Sans-serif;
+    line-height: 0.9em;
 }
 
+p {
+    padding-top: 25px;
+}
