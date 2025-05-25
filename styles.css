@@ -27,5 +27,15 @@ li a{
 .hero-section {
     background-image: url('right\ picture.jpeg');
     background-size: cover;
-    height: 500px;
+    height: 800px;
+    justify-content: center;
+    align-items: center;
+    margin-top: ;
 }
+
+.hero-texts {
+    text-align: center;
+    justify-content: center;
+    color: aliceblue;
+}
+
