@@ -166,7 +166,7 @@ h3 {
         background-color: #1c242a;
         margin-top: 0;
         color: burlywood;
-        margin-bottom: 15px;
+        margin-bottom: 2px;
         justify-content: space-around;
         height: 250px;
         }
@@ -180,9 +180,15 @@ h3 {
         }
 
         button {
-            background-color: #ffffff;
+            color: #ffffff;
             border-radius: 10px;
             height: 25px;
+            }
+
+            .foot-panel2 {
+                background-color: #1e1e22;
+                height: 400px;
+                margin-top: 0;
             }
 
     
