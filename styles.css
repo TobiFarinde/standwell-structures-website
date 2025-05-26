@@ -169,6 +169,7 @@ h3 {
         margin-bottom: 2px;
         justify-content: space-around;
         height: 250px;
+        margin-left: 25px;
         }
 
         input {
@@ -189,6 +190,11 @@ h3 {
                 background-color: #1e1e22;
                 height: 400px;
                 margin-top: 0;
+                margin-left: 25px;
+                color: #ffffff;
+                display: block;
+                justify-content: center;
+                align-items: center;
             }
 
     
