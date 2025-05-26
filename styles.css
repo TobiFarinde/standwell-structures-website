@@ -165,6 +165,11 @@ h3 {
         display: flex;
         background-color: #1c242a;
         margin-top: 0;
+        color: burlywood;
+        margin-bottom: 15px;
+        justify-content: space-around;
+        height: 250px;
+        
      }
 
     
