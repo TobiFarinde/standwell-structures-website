@@ -169,7 +169,20 @@ h3 {
         margin-bottom: 15px;
         justify-content: space-around;
         height: 250px;
-        
-     }
+        }
+
+        input {
+            background-color: aquamarine;
+            width: 250px;
+            border-radius: 5px;
+            height: 25px;
+    
+        }
+
+        button {
+            background-color: #ffffff;
+            border-radius: 10px;
+            height: 25px;
+            }
 
     
